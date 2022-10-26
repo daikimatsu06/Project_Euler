@@ -16,4 +16,4 @@ int main() {
 }
 
 // answer: 6857
-// time: 0.011365
+// time: 0.011365 s.
